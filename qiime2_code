@@ -1,4 +1,4 @@
-# Commands to create ASV table and taxonomic table at family level used for the analysis of parrotfish microbiome
+# Commands to create ASV table and taxonomic table at family level in qiime2 used for the analysis of parrotfish microbiome
 # Sandra Montaño-Salazar (smmontanos@unal.edu.co)
 
 module load qiime2-2018.4
